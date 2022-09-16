@@ -31,8 +31,8 @@ public class SubmitOrder extends BrowserInitialize  {
 		pg.FillUpAndPlaceOrder();
 		pID = pg.GetOrderId();
 		System.out.println("Test1");
-		System.out.println("Test1");
-		
+		System.out.println("Test2");
+		System.out.println("Test3");
 		
 	}
 	
