@@ -30,6 +30,8 @@ public class SubmitOrder extends BrowserInitialize  {
 		PaymentPage pg = new PaymentPage(driver);
 		pg.FillUpAndPlaceOrder();
 		pID = pg.GetOrderId();
+		System.out.println("Test1");
+		System.out.println("Test1");
 		
 		
 	}
